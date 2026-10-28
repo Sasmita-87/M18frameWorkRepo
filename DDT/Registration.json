@@ -1,0 +1,35 @@
+[
+    {
+      "url" : "https://demoqa.com/automation-practice-form",
+        "name" : " Sasmita",
+        "lastName" : "Sahoo",
+        "email" : " sas@gmail.com",
+        "gender" : "Female" ,
+        "mob" : "9900087667",
+        "year" : "2001",
+        "month" : "10",
+        "subject":"A",
+        "hobbies" : ["Reading","Music"],
+        "picturepath" : "C:/Users/nihar/OneDrive/Desktop/Butterfly-blue.jpg",
+        "address" : "Bhubaneswar",
+        "state" : "NCR",
+        "city"  : "Delhi"
+
+    },
+    {
+        "url" : "https://demoqa.com/automation-practice-form",
+        "name" : " Manoj",
+        "lastName" : "Sah",
+        "email" : " manoj123@gmail.com",
+        "gender" : "Male" ,
+        "mob" : "9900087600",
+        "year" : "2002",
+        "month" : "10",
+        "subject":"p",
+        "hobbies" : ["Reading","Music"],
+        "picturepath" : "C:/Users/nihar/OneDrive/Desktop/Butterfly-blue.jpg",
+        "address" : "Bhubaneswar",
+        "state" : "Haryana",
+        "city"  : "Panipat"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "valid":[{
+    "url":"https://demoqa.com/automation-practice-form",
+    "FirstName" : "Sas",
+    "LastName": "Ray",
+    "Email" : "sas123@gmail.com",
+    "Gender" : "Female"
+},
+{
+"url":"https://demoqa.com/automation-practice-form",
+    "FirstName" : "Ansh",
+    "LastName": "Rath",
+    "Email" : "ansh65@gmail.com",
+    "Gender" : "Male"
+
+}
+],
+
+"invalid":[
+    {
+    "url":"https://demoqa.com/automation-practice-form",
+    "FirstName" : "Sas1",
+    "LastName": "Ray*",
+    "Email" : "sas 123@gmail.com",
+    "Gender" : "Male"
+},
+{
+    "url":"https://demoqa.com/automation-practice-form",
+    "FirstName" : "Ni3ved",
+    "LastName": "Ra*",
+    "Email" : "Nir123@gmail.com",
+    "Gender" : "Female"
+}
+]
+
+}

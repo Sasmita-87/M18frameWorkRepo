@@ -1,0 +1,40 @@
+{
+    "valid":[{
+    "url":"https://www.saucedemo.com/",
+   "userName": "standard_user",
+    "passWord" :"secret_sauce",
+    "productName": "Sauce Labs Backpack"
+},
+{
+"url":"https://www.saucedemo.com/",
+   "userName": "locked_out_user",
+    "passWord" :"secret_sauce",
+    "productName": "Sauce Labs Bike Light"
+
+
+},
+{
+"url":"https://www.saucedemo.com/",
+   "userName": "locked_out_user",
+    "passWord" :"secret_sauce",
+    "productName": "Sauce Labs Bolt T-Shirt"
+    
+
+}
+],
+
+"invalid":[
+    {
+   "url":"https://www.saucedemo.com/",
+   "userName": "locked_out_user_123",
+    "passWord" :"secret@34"
+},
+{
+      
+   "url":"https://www.saucedemo.com/",
+   "userName": "locked_out_sas",
+    "passWord" :"secret@8907"
+}
+]
+
+}

@@ -1,0 +1,25 @@
+1. open http://Amazon.in application,search for samsung phones,write a xpath to find price of the 1st samsung      phone.
+
+//a[@aria-describedby="price-link"]//span[text()="11,999"]
+
+2. open http://Amazon.in application,search for phones,in the left side of the page you can operating system,write a xpath to click on a checkBox for 
+(Android 13.0)
+
+//a[@aria-label="Apply the filter Android 13.0 to narrow results"]//i
+
+3.Open cricbuzz application, click on live match,click on scoreCard, write a xpath to find Runs scored by a perticular batsman.
+
+
+
+//span[.="Tim Seifert (wk)"]/descendant::div[]
+
+
+//*[@id="scard-team-263-innings-1"]/div[1]/div/div[2]
+
+
+//span[.='Tim Seifert (wk)']/parent::*/parent::*/parent::*/parent::*/parent::*/parent::*/parent::*/div[2]
+
+//span[.='Tim Seifert (wk)']/../../../../../../../div[2]
+
+//*[@id="scard-team-263-innings-1"]/*[@class="mb-2"][1]//span[.='Matthew Forde']/../../../../../../../div[2]
+
