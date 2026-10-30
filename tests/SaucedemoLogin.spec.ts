@@ -30,4 +30,5 @@ let productlist=new InventoryPage(page);
 
 
     
+}
 })
