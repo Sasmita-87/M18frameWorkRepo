@@ -38,7 +38,8 @@ expect:{timeout:3000},
   projects: [
     {
       name: 'chromium',
-      use: { ...devices['Desktop Chrome'] },
+      // use: { ...devices['Desktop Chrome'] },
+      use:{browserName:'chromium'
     },
 
     // {
